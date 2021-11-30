@@ -11,7 +11,7 @@ public class PruebaEstres1 {
         
         for (int i = 0; i < 10000; i++) {
             
-            System.out.println("Prueba Estres: " + i);
+            System.out.println("Prueba Estres Felipe: " + i);
         }
     }
     
